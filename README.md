@@ -24,6 +24,8 @@ scattering length density from the component oxides is included in the program.
  - [PyQtGraph](http://www.pyqtgraph.org/) - GUI
  - [SciPy](https://www.scipy.org/) - Fitting and Analysis tool
  - [PyOpenGL](http://pyopengl.sourceforge.net/) - Dependencie of PyQtGraph
+ 
+ 
 Dependecies for PyInstaller(if You would like to build executables):
  - PyGTK
  - PyQt5
