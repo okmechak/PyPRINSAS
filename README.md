@@ -29,12 +29,29 @@ scattering length density from the component oxides is included in the program.
 Dependecies for PyInstaller(if You would like to build executables):
  - PyGTK
  - PyQt5
-
-There easiest way to install above tools is using __pip__ tool from command prompt(it will installed with Anaconda package).
+ 
+There easiest way to install above tools is using __pip__ tool from command prompt(it comes with Anaconda package).
 >Note: if command pompt says that __pip__ command isn't recognized(even Anaconda is installed) then you have to modify Path Environmental Variable, with appending location to pip tool(which is placed in folder Scripts of Anaconda installation root folder)
 
 pip install PyOpenGL PyOpenGL_accelerate pyqtgraph
 
 
-
 ## Making of Stand Alone app from Python project
+
+Run
+
+> pyinstaller main.py
+
+If You encountered error with using PyInstaller that recursive call depth exceeded, then run next command:
+
+> pyinstaller main.py
+
+it will create main.spec file and add next lines to its beginning:
+
+>import sys  
+>sys.setrecursionlimit(10000)
+
+and finally run:
+
+> pyinstaller main.spec
+
