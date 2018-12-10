@@ -17,6 +17,9 @@ the scatterers are pores), assuming spherical scatterers. A fractal model may al
 be assumed and the fractal dimension obtained. A utility for calculating
 scattering length density from the component oxides is included in the program.
 
+## Download Prebuild Packages
+  TODO(add dowload links to patches)
+
 ## System setup and Dependencies
   At first install [Anaconda](https://www.anaconda.com/)(Python3 version only)
   
@@ -42,14 +45,14 @@ Run
 
 > pyinstaller main.py
 
-If You encountered error with using PyInstaller that recursive call depth exceeded, then run next command:
+If You encountered error "recursive call depth exceeded", then run next command:
 
 > pyinstaller main.py
 
 it will create main.spec file and add next lines to its beginning:
 
 >import sys  
->sys.setrecursionlimit(10000)
+>sys.setrecursionlimit(5000)#or bigger number
 
 and finally run:
 
