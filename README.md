@@ -17,6 +17,13 @@ the scatterers are pores), assuming spherical scatterers. A fractal model may al
 be assumed and the fractal dimension obtained. A utility for calculating
 scattering length density from the component oxides is included in the program.
 
+Source:
+Journal of Applied Crystallography
+ISSN 0021-8898
+PRINSAS – a Windows-based computer program for the processing and interpretation of small-angle scattering data tailored to the analysis of sedimentary rocks 
+AlanL.Hinde
+
+
 ## Download Prebuild Packages
   TODO(add dowload links to patches)
 
