@@ -21,7 +21,7 @@ Source:
 Journal of Applied Crystallography  
 ISSN 0021-8898  
 PRINSAS – a Windows-based computer program for the processing and interpretation of small-angle scattering data tailored to the analysis of sedimentary rocks   
-AlanL.Hinde   
+Alan L.Hinde   
 
 
 ## Download Prebuild Packages
