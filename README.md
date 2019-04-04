@@ -65,3 +65,6 @@ and finally run:
 
 > pyinstaller main.spec
 
+#### UPD:
+I decided to use the most basic GUI library - Tinker and pyinstaller doesn't has support to it.
+
