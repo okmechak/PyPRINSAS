@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[      7870,        215]
-NotebookOptionsPosition[      7130,        194]
-NotebookOutlinePosition[      7475,        209]
-CellTagsIndexPosition[      7432,        206]
+NotebookDataLength[      7929,        217]
+NotebookOptionsPosition[      7189,        196]
+NotebookOutlinePosition[      7534,        211]
+CellTagsIndexPosition[      7491,        208]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -177,12 +177,14 @@ Cell[BoxData[
  RowBox[{"Export", "[", 
   RowBox[{
    RowBox[{
-    RowBox[{"NotebookDirectory", "[", "]"}], "<>", "\"\<sampleData.txt\>\""}],
-    ",", " ", "sampleData", ",", " ", "\"\<csv\>\""}], "]"}]], "Input",
+    RowBox[{"NotebookDirectory", "[", "]"}], "<>", 
+    "\"\<sample_data.txt\>\""}], ",", " ", "sampleData", ",", " ", 
+   "\"\<csv\>\""}], "]"}]], "Input",
  CellChangeTimes->{{3.753379399138857*^9, 3.753379441731081*^9}, {
   3.753379598430663*^9, 3.753379600666442*^9}, {3.7533796712987795`*^9, 
-  3.7533796855055065`*^9}, {3.753380636985979*^9, 
-  3.753380645019455*^9}},ExpressionUUID->"47728bdf-a406-484e-a7fa-\
+  3.7533796855055065`*^9}, {3.753380636985979*^9, 3.753380645019455*^9}, {
+  3.7633818714106693`*^9, 
+  3.7633818728316927`*^9}},ExpressionUUID->"47728bdf-a406-484e-a7fa-\
 b93e2e102545"],
 
 Cell[BoxData["\<\"C:\\\\Users\\\\ofcra\\\\Dev\\\\pyPRINSAS\\\\sampleData.txt\"\
@@ -214,8 +216,8 @@ Cell[1366, 47, 4698, 115, 269, "Output",ExpressionUUID->"2016d8e4-93a0-4f72-9a2f
 }, Open  ]],
 Cell[6079, 165, 256, 6, 28, "Input",ExpressionUUID->"6dc7c08c-998d-427b-8a6f-e2d5e8fc2781"],
 Cell[CellGroupData[{
-Cell[6360, 175, 486, 10, 28, "Input",ExpressionUUID->"47728bdf-a406-484e-a7fa-b93e2e102545"],
-Cell[6849, 187, 265, 4, 32, "Output",ExpressionUUID->"9fcbd2c0-7da7-4f2d-b960-9c1705cf3cbc"]
+Cell[6360, 175, 545, 12, 28, "Input",ExpressionUUID->"47728bdf-a406-484e-a7fa-b93e2e102545"],
+Cell[6908, 189, 265, 4, 32, "Output",ExpressionUUID->"9fcbd2c0-7da7-4f2d-b960-9c1705cf3cbc"]
 }, Open  ]]
 }
 ]
