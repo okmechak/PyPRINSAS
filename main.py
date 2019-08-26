@@ -4,7 +4,6 @@ from kivy.properties import NumericProperty, ReferenceListProperty,\
     ObjectProperty
 from kivy.vector import Vector
 from kivy.clock import Clock
-import MySQLdb as msql
 
 class PongPaddle(Widget):
     score = NumericProperty(0)

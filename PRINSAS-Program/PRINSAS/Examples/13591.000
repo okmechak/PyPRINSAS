@@ -1,0 +1,26 @@
+ORNL DXTL CAMERA
+Machine code:-20772
+Run number:13591
+Title:Sh1
+Empty beam run:0
+
+Sample Thickness (cm):   0.385
+Wavelength (nm):   .25900
+Transmission:   0.790
+Absolute Intensity Factor:   1.000000
+Time interval (sec):     100
+Average Monitor Count: 1884285
+
+Created Wednesday, May 26th, 1999 at 10:07:51
+
+2THETA (AS)   Q/nm^-1         I(Q)     Timer   Monitor
+
+  15.000  0.00017642      38008      1200   1912110
+  20.000  0.00023523      21224      1200   1920581
+  25.000  0.00029403      12955      1200   1920048
+  30.000  0.00035284       8819      1200   1905296
+  35.000  0.00041165       6192      1200   1898326
+  40.000  0.00047045       4617      1200   1883350
+  45.000  0.00052926       3708      1200   1860097
+  50.000  0.00058806       3094      1200   1837757
+  55.000  0.00064687       2528      1200   1821004
