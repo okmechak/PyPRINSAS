@@ -34,6 +34,8 @@ Alan L.Hinde
  - [PyQtGraph](http://www.pyqtgraph.org/) - GUI
  - [SciPy](https://www.scipy.org/) - Fitting and Analysis tool
  - [PyOpenGL](http://pyopengl.sourceforge.net/) - Dependencie of PyQtGraph
+ - [Kivy](https://kivy.org/#home) - GUI. pip install kivy
+ - [MySQL](https://www.tutorialspoint.com/python/python_database_access) - pip install mysqlclient
  
  
 Dependecies for PyInstaller(if You would like to build executables):
@@ -67,4 +69,3 @@ and finally run:
 
 #### UPD:
 I decided to use the most basic GUI library - Tinker and pyinstaller doesn't has support to it.
-
